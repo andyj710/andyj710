@@ -8,7 +8,7 @@ I'm Andy from The United States of America, and I enjoy traveling and learning c
 * :computer: HTML, CSS, C#
 * :floppy_disk: Virtual Machines
 
-## Skills: C# / C++ / JS / Java / HTML / CSS / Python / SQL
+# Other Skills: C++ / JS / Java / Python / SQL
 
 - 🔭 I’m currently working on my own company 
 - 🌱 I’m currently learning React, JavaScript, and Unreal Engine, and Google Cloud 
