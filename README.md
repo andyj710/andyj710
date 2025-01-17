@@ -10,7 +10,6 @@ I'm Andy from The United States of America, and I enjoy traveling and learning c
 
 Other Skills: C++ / JS / Java / Python / SQL
 
-- 🔭 I’m currently working on my own company 
 - 🌱 I’m currently learning React, JavaScript, and Unreal Engine, and Google Cloud 
 - 👯 I’m looking to collaborate on Machine Learning, Cryptocurrency, and Web Development 
 - 🤔 I’m looking for help with Systems Analysis and Design, also Automation 
@@ -29,16 +28,16 @@ Other Skills: C++ / JS / Java / Python / SQL
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+//<h2 align="center">⚡ Stats ⚡</h2>
+//<br>
+<//div align=center>
+  //<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+  //<br/>
+  //<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+//</div>
 
-<br/><br/>
+//<br/><br/>
 
 # Networking
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andyj710)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrew-jablonski-37b266197/)  
